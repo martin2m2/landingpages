@@ -83,14 +83,17 @@ button{
     display: flex;
     height: 550;
     flex-wrap: wrap;
+    gap: 70px;
 
 
 
 }
 .intro{
     border: solid red;
-    margin-left: 500px;
-    margin-right: 500px;
+    margin-left: 700px;
+    margin-right: 700px;
+    font-size: 32px;
+    width: 600px;
    
     
 
@@ -98,6 +101,7 @@ button{
 
 .five{
     border: solid red;
+    margin-left: 200px;
    
   }
 .six{
@@ -115,43 +119,45 @@ button{
    
    
 }
-.intro{
-    border: solid red;
-    
-   
-
-    
-}
 .description{
     display: flex;
     height: 550px;
+    margin-top: 20px;
+    text-align: center;
 }
 
 .kenya {
     border: solid red;
     height: 200px;
+    width: 300px;
+    margin-left: 200px;
+    margin-right: 62px;
    
 
 }
 .ethiopia{
     border: solid red;
-    height: 200px;
-   
-  
-
-
+    height: 400px;
+    width: 300px;
     
+   
 }
 .congo{
     border: solid red;
     height: 200px;
+    width: 300px;
+    margin-right: 72px;
+    margin-left:48px;
    
    
 
 }
 .somalia{
     border: solid red;
-    height: 200px;
+    height: 300px;
+    width: 296px;
+   
+
    
   
    
@@ -162,31 +168,54 @@ button{
     display: flex;
     height: 450px;
     border: solid red;
+    align-items: center;
+    margin: -19px;
+    background-color: #E5E7EB;
+    
    
     
  
 }
 .quote{
     border: solid blue;
+    height: 200px;
+    width: 1000px;
+    margin-left: 450px;
+    font-size: 27px;
+    margin-right: 200px;
+    text-align: center;
     
-   
     
-
 }
+#author{
+    font-size: 38px;
+    margin-left: 700px;
+    width: 300px;
+}
+.last{
+    border: solid red;
+    height: 200px;
+    margin-top: 90px;
+    margin-bottom: 90px;
+    border-radius: 20px;
     
+    padding: 90px;
+    background-color: #3882F6;
+    width: 1000px;
+    margin-left: 400px;
    
-   
-
-
+}
+#call{
+    font-size: 30px;
+    margin-left: 10px;
+}
     
 .footer{
     border: solid red;
     display: flex;
     height: 500px;
+    margin: -40px;
    
-   
-    
-    
 }
 button{
    
@@ -195,9 +224,3 @@ button{
     
     
 }
-.last{
-    border: solid red;
-    height: 550px;
-   
-}
-   
