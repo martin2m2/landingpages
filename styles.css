@@ -1,0 +1,203 @@
+
+.container {
+    border: solid red;
+    display: flex;
+    height: 550px;
+    gap: 48px;
+    flex-wrap: wrap;
+    background-color: #1F2937;
+    color: white;
+   
+    
+
+}
+#logo{
+    border: solid red;
+    height: 97px;
+    margin-right: 900px;
+    margin-left: 40px;
+
+    
+   
+    
+   
+}
+.one{
+    border: solid red;
+    height: 20px;
+    
+   
+   
+    
+}
+.two{
+    border: solid red;
+    height: 20px;
+     
+   
+   
+}
+.three{
+    border: solid red;
+    height: 20px;
+    margin-right: 500px;
+    
+   
+}
+.four{
+    border: solid red;
+    height: 350px;
+    margin-right: 300px;
+    width: 500px;
+    font-size: 26px;
+    color: aliceblue;
+    margin-left: 150px;
+   
+}
+p{
+    font-size: 40px;
+}
+a{
+    color: white;
+}
+button{
+    background-color: rgb(64, 64, 238);
+    
+    
+}
+
+    
+
+
+    
+.seattle{
+    border: solid red;
+    height: 400px;
+    margin-bottom: 250px;
+   
+    
+
+    
+}
+.info{
+    display: flex;
+    height: 550;
+    flex-wrap: wrap;
+
+
+
+}
+.intro{
+    border: solid red;
+    margin-left: 500px;
+    margin-right: 500px;
+   
+    
+
+}
+
+.five{
+    border: solid red;
+   
+  }
+.six{
+    border: solid red;
+   
+
+}
+.seven{
+    border: solid red;
+   
+   
+}
+.eight{
+    border: solid red;
+   
+   
+}
+.intro{
+    border: solid red;
+    
+   
+
+    
+}
+.description{
+    display: flex;
+    height: 550px;
+}
+
+.kenya {
+    border: solid red;
+    height: 200px;
+   
+
+}
+.ethiopia{
+    border: solid red;
+    height: 200px;
+   
+  
+
+
+    
+}
+.congo{
+    border: solid red;
+    height: 200px;
+   
+   
+
+}
+.somalia{
+    border: solid red;
+    height: 200px;
+   
+  
+   
+    
+}
+.conclusion{
+    
+    display: flex;
+    height: 450px;
+    border: solid red;
+   
+    
+ 
+}
+.quote{
+    border: solid blue;
+    
+   
+    
+
+}
+    
+   
+   
+
+
+    
+.footer{
+    border: solid red;
+    display: flex;
+    height: 500px;
+   
+   
+    
+    
+}
+button{
+   
+    border: solid red;
+   
+    
+    
+}
+.last{
+    border: solid red;
+    height: 550px;
+   
+}
+   
